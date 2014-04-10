@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainPane()
+comment1.params=
+comment1.target=void\ getMap()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=d
+comment3.target=double\ getDouble(double)
+numComments=4
